@@ -22,6 +22,8 @@
   <span> · </span>
   Entre na comunidade:
   <a href="https://discord.gg/dJRAbHJ">Discord</a>
+ <span> · </span>
+  <a href="http://denobrazil.slack.com/">Slack</a>
 </h3>
 
 > Disclaimer: Não nos responsabilizamos por comentários de má conduta, os contribuidores possuem responsabilidade pelo seus atos e estes não possuem vínculo com a organização.
