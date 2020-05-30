@@ -16,7 +16,7 @@
 </p>
 
 <h3 align="center">
-  <a href="https://www.denobrazil.com.br">Site Oficial</a> (Em desenvolvimento)
+  <a href="https://denobrazil.com">Site Oficial</a> (Em desenvolvimento)
   <span> · </span>
     <a href="https://deno-brazil.discourse.group/">Plataforma do Fórum</a>
   <span> · </span>
